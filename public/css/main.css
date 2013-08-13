@@ -1,0 +1,20 @@
+.racer_table td {
+  background-color: white;
+  height: 40px;
+  width: 40px;
+  border: 2px solid gray; }
+
+.racer_table td.active {
+  background-color: black; }
+
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black; }
+
+.victory_background {
+  background-image: url("img/Trophie.png"); }
+
+th {
+  text-align: left; }
